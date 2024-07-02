@@ -1,1 +1,2 @@
 # object-detection-intro
+# This is my first project in object detection. It is a very simple app using open cv. I was able to run this and get a camera feed from my phone, which I wasnt even aware the script would do. Will be diving deeper into object detection I believe this specific script only had around 20 items that the model was trained with.
